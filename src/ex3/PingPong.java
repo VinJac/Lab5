@@ -1,3 +1,4 @@
+package ex3;
 public class PingPong {
 
     private boolean sent = false;

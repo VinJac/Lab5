@@ -1,3 +1,4 @@
+package ex4;
 public class RandomNumGen {
     private long x;
 

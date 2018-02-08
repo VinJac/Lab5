@@ -1,3 +1,4 @@
+package ex2;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class PhilosopherDinner {
